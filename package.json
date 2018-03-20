@@ -4,7 +4,7 @@
   "description": "",
   "main": "CapstoneServer.js",
   "scripts": {
-    "start": "node CapstoneServer.js"
+    "start": "node CapstoneServer.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "dienabou",
